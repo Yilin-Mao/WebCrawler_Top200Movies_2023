@@ -1,6 +1,6 @@
 This is the package for assignment_1.pdf aiming to get information of top 200 movies in 2023 mainly from www.boxofficemojo.com. This assignment is from Hong Kong University.
 
-The codes are all included in code.ipynb and are seperated by markdown block.
+The codes are all included in code.ipynb and are seperated by markdown block. The intro pictures are saved in images.zip. The information/introduction/cleaned_intro are saved in corresponding txt file and the reference codes are saved in reference.zip.
 
 For 1.1, the code first gets the text from the website using requests and BeautifulSoup, then most information of top 200 movies like rank and worldwide box could be found. The movie id is a little hard which needs the link url of each movie and can be done by link.get('herf').
 
