@@ -1,4 +1,4 @@
-This is the package for assignment_1.pdf aiming to get information of top 200 movies in 2023 mainly from www.boxofficemojo.com.
+This is the package for assignment_1.pdf aiming to get information of top 200 movies in 2023 mainly from www.boxofficemojo.com. This assignment is from Hong Kong University.
 
 The codes are all included in code.ipynb and are seperated by markdown block.
 
